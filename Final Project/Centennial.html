@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Most Visited Places</title>
+  <link rel="stylesheet" href="High.css">
+</head>
+<body>
+
+  <h1>Most Visited Places in the World</h1>
+
+  <div class="buttons">
+    <button class="active" onclick="showCategory('all', this)">All</button>
+    <button onclick="showCategory('beaches', this)">Beaches</button>
+    <button onclick="showCategory('museums', this)">Museums</button>
+    <button onclick="showCategory('food', this)">Food</button>
+  </div>
+
+  <div id="cards" class="cards"></div>
+
+  <!-- INFO MODAL -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal()">×</span>
+      <h2 id="modal-title"></h2>
+      <p id="modal-text"></p>
+    </div>
+  </div>
+
+  <script src="School.js"></script>
+</body>
+</html>
