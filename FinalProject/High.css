@@ -74,6 +74,12 @@ button:hover {
   max-width: 500px;
   margin: 120px auto;
   padding: 25px;
+  text-align: left;
+}
+
+.modal-content p {
+  line-height: 1.6;
+  margin-bottom: 10px;
 }
 
 .close {
@@ -81,4 +87,28 @@ button:hover {
   font-size: 24px;
   cursor: pointer;
   color: #F2A249;
+}
+
+/* FOOTER */
+.footer {
+  margin-top: 50px;
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  border-top: 2px solid #F2A249;
+  font-size: 14px;
+}
+
+.logo {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: #F2A249;
+  color: #0E285C;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

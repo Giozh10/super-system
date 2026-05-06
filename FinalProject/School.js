@@ -3,22 +3,22 @@ const data = {
     {
       name: "Paris, France",
       img: "images/Paris.jpeg",
-      info: "Paris is one of the most visited cities in the world and is widely considered a global center of culture, art, fashion, and history. Millions of tourists travel to Paris every year to see iconic landmarks such as the Eiffel Tower, the Louvre Museum, and Notre-Dame Cathedral. The city is also famous for its historic neighborhoods, cafés, and unique architecture. Visitors often describe Paris as a romantic city with a strong cultural identity that has influenced Europe and the world for centuries."
+      info: "Paris is one of the most visited cities in the world and a global center of culture, art, and history. Millions of tourists visit every year to see the Eiffel Tower, the Louvre Museum, and historic neighborhoods. The city is also famous for its cafés, architecture, and romantic atmosphere."
     },
     {
       name: "New York City, USA",
       img: "images/nyc.jpeg",
-      info: "New York City is one of the most important and influential cities in the world. It is known for its impressive skyline, Times Square, Central Park, and Broadway theaters. Tourists are attracted by its museums, shopping areas, diverse food culture, and entertainment options. The city is also a major economic and cultural center that represents diversity, opportunity, and modern urban life."
+      info: "New York City is a major global destination known for its skyline, Times Square, and Central Park. It attracts visitors because of its museums, entertainment, shopping, and cultural diversity. The city represents modern urban life and opportunity."
     },
     {
       name: "Tokyo, Japan",
       img: "images/tokyo.jpeg",
-      info: "Tokyo is a unique city that successfully combines modern technology with traditional Japanese culture. Visitors experience advanced transportation systems, modern buildings, historic temples, and traditional markets. Tokyo is also famous for its cleanliness, safety, and efficiency. The city attracts tourists interested in innovation, history, cuisine, and cultural experiences."
+      info: "Tokyo combines modern technology with traditional culture. Visitors experience temples, advanced transportation, and world-famous cuisine. It is known for its organization, safety, and innovation."
     },
     {
       name: "London, UK",
       img: "images/london.jpeg",
-      info: "London is one of the most visited cities in Europe and has a long and influential history. Tourists often visit landmarks such as Buckingham Palace, Big Ben, and the Tower of London. The city is also famous for its museums, many of which are free to the public. London’s multicultural population, historical significance, and global influence make it a major tourist destination."
+      info: "London is known for its historical landmarks, royal heritage, and museums. Tourists visit Big Ben, Buckingham Palace, and cultural institutions. The city has a long and influential history."
     }
   ],
 
@@ -26,22 +26,22 @@ const data = {
     {
       name: "Bali, Indonesia",
       img: "images/Bali beach.jpeg",
-      info: "Bali is one of the most popular beach destinations in the world, known for its tropical climate and scenic landscapes. Visitors enjoy sandy beaches, surfing locations, and clear ocean waters. Bali is also famous for its temples, traditional ceremonies, and strong cultural identity. Many tourists choose Bali for relaxation, nature exploration, and cultural experiences."
+      info: "Bali is a tropical destination famous for beaches, surfing, and cultural traditions. Visitors enjoy nature, temples, and a relaxed lifestyle."
     },
     {
       name: "Maldives",
       img: "images/Maldives beaches.jpeg",
-      info: "The Maldives is a world-famous beach destination known for its crystal-clear waters and white sand beaches. It is especially popular for luxury tourism, honeymoon trips, and snorkeling activities. Visitors enjoy staying in overwater resorts and exploring coral reefs. The Maldives is often considered one of the most beautiful and peaceful beach destinations on Earth."
+      info: "The Maldives is known for crystal-clear waters, white sand beaches, and luxury resorts. It is a popular destination for relaxation and snorkeling."
     },
     {
       name: "Cancún, Mexico",
       img: "images/cancun beaches.jpeg",
-      info: "Cancún is one of the most visited beach destinations in the Americas. It is known for its turquoise waters, long beaches, and modern resorts. Tourists also enjoy its nightlife and nearby cultural attractions. Cancún attracts visitors looking for both relaxation and entertainment."
+      info: "Cancún offers turquoise waters, resorts, and nightlife. It is one of the most popular beach destinations in the Americas."
     },
     {
       name: "Phuket, Thailand",
       img: "images/phuket beaches.jpeg",
-      info: "Phuket is Thailands largest island and a major international beach destination. Visitors are attracted by its tropical climate, beaches, and water activities. The island also offers cultural attractions, local markets, and historical areas. Phuket combines relaxation, adventure, and cultural discovery."
+      info: "Phuket is Thailand’s main beach destination, combining natural beauty with tourism and culture."
     }
   ],
 
@@ -49,22 +49,22 @@ const data = {
     {
       name: "Louvre Museum, Paris",
       img: "images/Paris museum.jpeg",
-      info: "The Louvre Museum is the most visited museum in the world and one of the most important cultural institutions. It contains thousands of artworks from different historical periods, including the famous Mona Lisa. Visitors can explore ancient civilizations, classical sculptures, and famous paintings. The Louvre represents the importance of preserving world history and art."
+      info: "The Louvre is the most visited museum in the world and home to the Mona Lisa. It represents centuries of global art and history."
     },
     {
       name: "British Museum, London",
       img: "images/london museum.jpeg",
-      info: "The British Museum is dedicated to human history and culture from around the world. It contains artifacts from ancient civilizations, including Egypt, Greece, and Mesopotamia. Visitors can learn about the development of societies over time. The museum plays an important role in education and historical preservation."
+      info: "The British Museum showcases artifacts from ancient civilizations and human history."
     },
     {
       name: "MET Museum, New York",
       img: "images/nyc museum.jpeg",
-      info: "The Metropolitan Museum of Art is one of the largest art museums in the world. It displays art from many cultures and historical periods. Visitors explore collections ranging from ancient artifacts to modern art. The museum attracts millions of visitors interested in art, history, and learning."
+      info: "The MET is one of the largest art museums in the world, attracting millions of visitors every year."
     },
     {
       name: "Vatican Museums, Rome",
       img: "images/vatican museum.jpeg",
-      info: "The Vatican Museums contain a large collection of Renaissance art and religious artifacts. Many tourists visit to see the Sistine Chapel and its famous ceiling painted by Michelangelo. The museums highlight the artistic and religious influence of the Catholic Church. They are considered one of the most important museum complexes in the world."
+      info: "The Vatican Museums are famous for Renaissance art and the Sistine Chapel."
     }
   ],
 
@@ -72,22 +72,22 @@ const data = {
     {
       name: "Rome, Italy",
       img: "images/rome food.jpeg",
-      info: "Rome is famous for its traditional Italian cuisine, including pasta dishes, pizza, and desserts. Food is an important part of Roman daily life and culture. Visitors enjoy eating in local restaurants while experiencing the city’s historic environment. Roman cuisine reflects history, tradition, and regional ingredients."
+      info: "Rome is known for traditional Italian cuisine such as pasta and pizza. Food is deeply connected to the city’s culture."
     },
     {
       name: "Bangkok, Thailand",
       img: "images/bangkok food.jpeg",
-      info: "Bangkok is internationally known for its street food and vibrant food culture. Tourists can find food markets offering a wide range of flavors and spices. Thai food is known for balancing sweet, spicy, and sour tastes. Bangkok is considered one of the best cities in the world for street food."
+      info: "Bangkok is famous for street food and bold flavors. It is considered one of the best food cities in the world."
     },
     {
       name: "Barcelona, Spain",
       img: "images/barcelona food.jpeg",
-      info: "Barcelona offers a rich Mediterranean food culture with fresh seafood and local dishes. Visitors enjoy tapas, regional recipes, and coastal flavors. Food is closely connected to social life and tradition in the city. Barcelona combines culinary experiences with cultural exploration."
+      info: "Barcelona offers Mediterranean cuisine with seafood and tapas, strongly connected to social life."
     },
     {
       name: "Tokyo, Japan",
       img: "images/tokyo food.jpeg",
-      info: "Tokyo is considered one of the best food cities in the world. It offers a wide variety of options, from street food to high-end restaurants. Tourists enjoy sushi, ramen, and traditional Japanese dishes. Tokyo’s food culture emphasizes quality, precision, and tradition."
+      info: "Tokyo offers everything from street food to fine dining, with strong emphasis on quality and tradition."
     }
   ]
 };
@@ -107,7 +107,7 @@ function showCategory(category, btn) {
     card.onclick = () => showInfo(place);
 
     card.innerHTML = `
-      <img src="${place.img}">
+      <img src="${place.img}" alt="${place.name}">
       <h3>${place.name}</h3>
     `;
 
@@ -117,7 +117,11 @@ function showCategory(category, btn) {
 
 function showInfo(place) {
   document.getElementById("modal-title").textContent = place.name;
-  document.getElementById("modal-text").textContent = place.info;
+
+  const paragraphs = place.info.split(". ");
+  document.getElementById("modal-text").innerHTML =
+    paragraphs.map(p => `<p>${p}.</p>`).join("");
+
   document.getElementById("modal").style.display = "block";
 }
 
